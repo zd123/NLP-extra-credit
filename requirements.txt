@@ -1,0 +1,7 @@
+tensorflow
+notebook
+gensim
+pandas
+scikit-learn
+nltk
+seaborn
